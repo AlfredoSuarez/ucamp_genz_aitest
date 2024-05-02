@@ -1,0 +1,13 @@
+pandas
+numpy
+seaborn
+plotly
+requests
+scipy
+dash
+dash-auth
+keras
+flask
+scikit-learn
+tensorflow
+matplotlib
